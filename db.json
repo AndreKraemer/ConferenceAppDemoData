@@ -17,7 +17,13 @@
          "name":"Anna Gramm",
          "company":"CryptoBytes AG",
          "bio":"Anna Gramm ist Security-Spezialist  bei der CryptoBytes AG."
-      }
+      },
+      {
+         "id":4,
+         "name":"André Krämer",
+         "company":"Quality Bytes GmbH",
+         "bio":"André Krämer ist CEO bei der Quality Bytes GmbH."
+      }   
    ],
    "sessions":[
       {
