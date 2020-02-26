@@ -1,51 +1,51 @@
 {
-  "speakers": [
-     {
-                "id": 1,
-                "name": "Wilhelm Brause",
-                "company": "Software-Brause GmbH",
-                "bio": "Wilhelm Brause ist Senior Developer bei der Software Brause GmbH."
-            },
-            {
-                "id": 2,
-                "name": "Hans Dampf",
-                "company": "SteamBytes Gbr",
-                "bio": "Hans Dampf ist Junior Developer bei der SteamBytes Gbr."
-            },
-            {
-                "id": 3,
-                "name": "Anna Gramm",
-                "company": "CryptoBytes AG",
-                "bio" "Anna Gramm ist Security-Spezialist  bei der CryptoBytes AG."
-            }
-  ],
-  "sessions": [
-                {
-                    "id": 1,
-                    "title": "EF Core und Xamarin",
-                    "seakerId": 1,
-                    "speaker": "Wilhelm Brause",
-                    "description": "In diesem Vortrag lernen Sie, wie Sie das EF Core unter Xamarin nutzen.",
-                    "isFavorite": true
-                },
-                {
-                    "id": 2,
-                    "title": "Durchgänngige UIs mit Xamarin.Visuals",
-                    "speakerId": 2,
-                    "speaker": "Hans Dampf",
-                    "description": "Ein Einblick in Xamarin.Visuals",
-                    "isFavorite": false
-                },
-                {
-                    "id": 3,
-                    "title": "Sichere Datenhaltung in Xamarin Apps",
-                    "speakerId": 3,
-                    "speaker": "Anna Gramm",
-                    "description":  "Anna Gramm erklärt in diesem Vortrag, wie Sie Ihre Daten vor unberechtigten Zugriffen schützen.",
-                    "isFavorite" : true
-                }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+   "speakers":[
+      {
+         "id":1,
+         "name":"Wilhelm Brause",
+         "company":"Software-Brause GmbH",
+         "bio":"Wilhelm Brause ist Senior Developer bei der Software Brause GmbH."
+      },
+      {
+         "id":2,
+         "name":"Hans Dampf",
+         "company":"SteamBytes Gbr",
+         "bio":"Hans Dampf ist Junior Developer bei der SteamBytes Gbr."
+      },
+      {
+         "id":3,
+         "name":"Anna Gramm",
+         "company":"CryptoBytes AG",
+         "bio":"Anna Gramm ist Security-Spezialist  bei der CryptoBytes AG."
+      }
+   ],
+   "sessions":[
+      {
+         "id":1,
+         "title":"EF Core und Xamarin",
+         "seakerId":1,
+         "speaker":"Wilhelm Brause",
+         "description":"In diesem Vortrag lernen Sie, wie Sie das EF Core unter Xamarin nutzen.",
+         "isFavorite":true
+      },
+      {
+         "id":2,
+         "title":"Durchgänngige UIs mit Xamarin.Visuals",
+         "speakerId":2,
+         "speaker":"Hans Dampf",
+         "description":"Ein Einblick in Xamarin.Visuals",
+         "isFavorite":false
+      },
+      {
+         "id":3,
+         "title":"Sichere Datenhaltung in Xamarin Apps",
+         "speakerId":3,
+         "speaker":"Anna Gramm",
+         "description":"Anna Gramm erklärt in diesem Vortrag, wie Sie Ihre Daten vor unberechtigten Zugriffen schützen.",
+         "isFavorite":true
+      }
+   ],
+   "profile":{
+      "name":"typicode"
+   }
 }
