@@ -28,23 +28,23 @@
    "sessions":[
       {
          "id":1,
-         "title":"EF Core und Xamarin",
+         "title":".NET MAUI, die Evolution von Xamarin.Forms",
          "seakerId":1,
          "speaker":"Wilhelm Brause",
-         "description":"In diesem Vortrag lernen Sie, wie Sie das EF Core unter Xamarin nutzen.",
+         "description":"In diesem Vortrag lernen Sie, wie Sie was es mit .NET MAUI auf sich hat.",
          "isFavorite":true
       },
       {
          "id":2,
-         "title":"Durchgänngige UIs mit Xamarin.Visuals",
+         "title":"Xamarin-Apps nach .NET MAUI migrieren",
          "speakerId":2,
          "speaker":"Hans Dampf",
-         "description":"Ein Einblick in Xamarin.Visuals",
+         "description":"Hans Dampf erläutert in diesem Talk, wie man Xamarin-Apps nach .NET MAUI migriert",
          "isFavorite":false
       },
       {
          "id":3,
-         "title":"Sichere Datenhaltung in Xamarin Apps",
+         "title":"Sichere Datenhaltung in .NET MAUI Apps",
          "speakerId":3,
          "speaker":"Anna Gramm",
          "description":"Anna Gramm erklärt in diesem Vortrag, wie Sie Ihre Daten vor unberechtigten Zugriffen schützen.",
